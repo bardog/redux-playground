@@ -27,12 +27,7 @@ build/Release
 node_modules
 
 #dist folder
-dist
-deploy/templates
-deploy/imgs
-deploy/css
-deploy/js
-deploy/fonts
+build
 
 # IDEA/Webstorm project files
 .idea
