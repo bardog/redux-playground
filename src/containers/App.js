@@ -15,17 +15,6 @@ class App extends Component {
 
   }
 
-  getStyle(invert) {
-    return({
-      backgroundColor: !invert
-        ? this.props.textColor
-        : this.props.bgColor,
-      color: !invert
-        ? this.props.bgColor
-        : this.props.textColor,
-    });
-  }
-
   render() {
     return (
       <div
