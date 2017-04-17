@@ -1,0 +1,39 @@
+export const darkColors = [
+	'DarkBlue',
+	'DarkCyan',
+	'DarkGoldenRod',
+	'DarkGray',
+	'DarkGrey',
+	'DarkGreen',
+	'DarkKhaki',
+	'DarkMagenta',
+	'DarkOliveGreen',
+	'DarkOrange',
+	'DarkOrchid',
+	'DarkRed',
+	'DarkSalmon',
+	'DarkSeaGreen',
+	'DarkSlateBlue',
+	'DarkSlateGray',
+	'DarkSlateGrey',
+	'DarkTurquoise',
+	'DarkViolet'
+];
+
+export const lightColors = [
+	'LightBlue',
+	'LightCoral',
+	'LightCyan',
+	'LightGoldenRodYellow',
+	'LightGray',
+	'LightGrey',
+	'LightGreen',
+	'LightPink',
+	'LightSalmon',
+	'LightSeaGreen',
+	'LightSkyBlue',
+	'LightSlateGray',
+	'LightSlateGrey',
+	'LightSteelBlue',
+	'LightYellow'
+];

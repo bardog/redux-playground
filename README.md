@@ -1,2 +1,2 @@
 # redux-playground
-React Redux Minimal set
+Minimal React/Redux project
